@@ -1,0 +1,20 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 9ff11e6f-f668-4b36-b245-fbb7cce78743)
+
+  (paper "A4")
+
+  (title_block
+    (title "Calculatorthing")
+    (date "2022-11-18")
+    (rev "indev")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
