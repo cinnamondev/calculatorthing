@@ -11,7 +11,4 @@ PARTICULAR PURPOSE. Please see the CERN-OHL-S v2 for applicable conditions.
                                                                              
 ORIGINAL SOURCE LOCATION: https://www.github.com/cinnamondev/calculatorthing                                         
                                                                              
-As per CERN-OHL-S v2 section 4, should You produce hardware based on this    
-source, You must where practicable maintain the Source Location visible
-on the PCB silkscreen of the Product or other products you make using this
-source. 
+As per CERN-OHL-S v2 section 4, should You produce hardware based on this source, You must where practicable ensurd the Source Location and any other notices arevisible on the PCB silkscreen of the Product or other products you make using this source. 
